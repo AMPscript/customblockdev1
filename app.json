@@ -1,0 +1,7 @@
+{
+	"name": "Ihor Sample Block",
+	"description": "A Sample Salesforce Marketing Cloud Content Builder Custom Block",
+	"repository": "https://github.com/ishupeniuk/productsCustomBlockSDK",
+	"logo": "https://github.com/ishupeniuk/productsCustomBlockSDK/dist/icon.png?raw=true",
+	"keywords": ["node", "express", "static", "content builder", "block", "blocksdk"]
+}
